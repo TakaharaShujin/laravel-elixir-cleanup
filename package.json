@@ -1,0 +1,35 @@
+{
+  "name": "laravel-elixir-cleanup",
+  "version": "0.1.0",
+  "description": "Clean built and custom files or folders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TakaharaShujin/laravel-elixir-cleanup"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir",
+    "clean",
+    "cleanup",
+    "remove"
+  ],
+  "author": {
+    "name": "Üsame Fethullah AVCI",
+    "email": "usameavci@gmail.com",
+    "url": "https://github.com/TakaharaShujin"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakaharaShujin/laravel-elixir-cleanup/issues"
+  },
+  "homepage": "https://github.com/TakaharaShujin/laravel-elixir-cleanup",
+  "dependencies": {
+    "del": "^2.2.2",
+    "laravel-elixir": "^6.0.0-11"
+  }
+}
