@@ -14,7 +14,7 @@ Default clean folders: `public/css`, `public/js`, `public/build`.
 
 ```javascript
 var elixir = require('laravel-elixir');
-require('laravel-elixir-clean');
+require('laravel-elixir-cleanup');
 
 elixir(function(mix) {
   mix
